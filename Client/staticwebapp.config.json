@@ -1,6 +1,6 @@
 {
   "navigationFallback": {
     "rewrite": "/index.html",
-    "exclude": [ "/**/did-configuration.json" ]
+    "exclude": [ "/.well-known/did-configuration.json" ]
   }
 }
