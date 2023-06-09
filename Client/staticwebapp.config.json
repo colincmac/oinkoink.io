@@ -6,6 +6,10 @@
     {
       "route": "/.well-known/did-configuration.json",
       "rewrite": "/well-known/did-configuration.json"
+    },
+    {
+      "route": "/.well-known/did.json",
+      "rewrite": "/well-known/did.json"
     }
   ]
 }
